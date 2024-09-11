@@ -17,8 +17,8 @@ void main() async {
     options: const FirebaseOptions(
       apiKey: "",
       appId: "",
-      messagingSenderId: "228931085063",
-      projectId: "footwareshop-8c9b5",
+      messagingSenderId: "",
+      projectId: "",
     ),
   );
 
